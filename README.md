@@ -1,6 +1,4 @@
-# akash-github
-
-Pima-Indian-Diabetes-Prediction
+# Pima-Indian-Diabetes-Prediction
 
 Context
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. 
